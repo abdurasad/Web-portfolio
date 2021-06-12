@@ -66,5 +66,33 @@ section{
 .ff{
     background-repeat: no-repeat;
     background-image: url(images/dream-bg.png);
-    
+
+}
+.single-exprience{
+    box-shadow: 10px 10px 40px grey;
+    border-radius: 5px;
+    background-color: white;
+}
+.exprience-area{
+
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+
+}
+#full-stack{
+
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg,salmon,tomato);
+    border-image-slice: 1;
+}
+
+#developer{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg,blue,cyan);
+    border-image-slice: 1;
+}
+
+footer p{
+    text-align: center;
+    font-size: 10px;
 }
