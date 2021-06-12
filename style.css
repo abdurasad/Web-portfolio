@@ -6,6 +6,20 @@ h1{
 
     font-size: 50px;
 }
+h2{
+    font-size: 40px;
+
+}
+h3{
+     margin-left: 50px;
+    
+
+}
+p{
+
+    color: dimgray;
+    font-weight: 700;
+}
 .name-h{
     color: orange;
 }
@@ -27,6 +41,7 @@ h1{
 }
 
 section{
+    padding-bottom: 150px;
 
     height: 500px;
 }
@@ -42,4 +57,14 @@ section{
       font-weight: 700;
 
 
+}
+.Dream-area{
+    background-repeat: no-repeat;
+    background-position: right;
+    background-image: url(images/dream-bg.png);
+}
+.ff{
+    background-repeat: no-repeat;
+    background-image: url(images/dream-bg.png);
+    
 }
